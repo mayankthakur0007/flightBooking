@@ -1,0 +1,6 @@
+{
+  "name": "flyeasy-app",
+  "short_name": "flyeasy-app",
+  "start_url": "/",
+  "display": "standalone"
+}
